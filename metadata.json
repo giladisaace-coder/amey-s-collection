@@ -1,0 +1,6 @@
+{
+  "name": "Amey's Collection | Luxury Fashion & Accessories",
+  "description": "Amey's Collection - Shop your next favorite piece from us. Luxury jewelry, ladies wear, sunglasses, perfume, belts, and handbags with secure bank transfer checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
